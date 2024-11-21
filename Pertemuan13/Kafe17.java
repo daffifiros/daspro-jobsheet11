@@ -21,7 +21,6 @@ public class Kafe17 {
         System.out.println("============================");
         System.out.println("Silahkan pilih menu yang anda inginkan! ");
     }
-
     public static int hitungTotalHarga(int pilihanMenu, int banyakItem) {
         int[] hargaItems = {15000, 20000, 22000, 12000, 10000, 18000};
         int hargaTotal = hargaItems[pilihanMenu - 1] * banyakItem;
