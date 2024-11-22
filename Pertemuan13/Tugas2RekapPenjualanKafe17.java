@@ -21,7 +21,6 @@ public class Tugas2RekapPenjualanKafe17 {
         }
         System.out.println("=========================================");
     }
-
     static int[][] inputData(int x, int y) {
         int penjualanArr[][] = new int[x][y];
         for (int i = 0; i < penjualanArr.length; i++) {
