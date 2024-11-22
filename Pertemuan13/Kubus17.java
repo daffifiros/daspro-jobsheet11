@@ -17,6 +17,5 @@ public class Kubus17 {
         int luasPermukaan = hitungLuasPermukaan(sisi);
         System.out.println("Volume kubus dengan sisi" + sisi + " adalah: " + volume);
         System.out.println("Luas permukaan kubus dengan sisi " + sisi + " adalah: " + luasPermukaan);
-    
     }
 }
